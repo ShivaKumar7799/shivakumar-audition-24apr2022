@@ -1,7 +1,7 @@
 .footerComponent{
   display: flex;
   justify-content: center;
-  border: 1px solid black;
+  border: 1px solid gray;
   border-top: none;
   padding: 10px;
   gap: 10px;
