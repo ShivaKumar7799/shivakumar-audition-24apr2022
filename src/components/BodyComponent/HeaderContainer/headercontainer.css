@@ -1,0 +1,29 @@
+.header{
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  border: 1px solid black;
+}
+.headerBtns{
+  display: flex;
+  justify-content: space-around;
+  gap: 20px;
+}
+.leftBtns Button{
+    padding: 5px  10px;
+    margin: 0px 5px;
+    border-radius: 5px;
+    border: 1.5px solid gainsboro;
+}
+.rightBtns Button{
+  padding: 5px;
+  border-radius: 5px;
+    border: 1.5px solid gainsboro;
+}
+input{
+  padding: 5px;
+  padding-left: 30px;
+  border-radius: 3px;
+  border: 2px solid gainsboro;
+  margin-left: 10px;
+}

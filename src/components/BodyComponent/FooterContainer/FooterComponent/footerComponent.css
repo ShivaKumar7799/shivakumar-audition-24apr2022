@@ -1,0 +1,17 @@
+.footerComponent{
+  display: flex;
+  justify-content: center;
+  border: 1px solid black;
+  border-top: none;
+  padding: 10px;
+  gap: 10px;
+}
+.footerComponent Button{
+    padding: 5px 10px;
+    border: 1px solid gainsboro;
+    border-radius: 5px;
+}
+.footerText{
+  display: flex;
+  align-items: center;
+}

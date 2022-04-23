@@ -1,0 +1,22 @@
+.detailsComponent{
+  display: grid;
+  grid-template-columns: 1.7fr repeat(3,1fr) 0.7fr;
+  gap: 10px;
+  margin: 0px;
+  padding: 14px;
+  border: 1px solid black;
+  border-top: none;
+  border-left: none;
+}
+.open{
+  color: green;
+  font-weight: 700;
+}
+.inprogress{
+  color: blue;
+  font-weight: 700;
+}
+.onhold{
+  color: orange;
+  font-weight: 700;
+}

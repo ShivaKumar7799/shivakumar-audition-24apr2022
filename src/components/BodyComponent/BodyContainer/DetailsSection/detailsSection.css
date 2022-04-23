@@ -1,0 +1,7 @@
+.special{
+  display: grid;
+  grid-template-columns: 1fr 4fr;
+}
+.heading{
+  color: gray;
+}

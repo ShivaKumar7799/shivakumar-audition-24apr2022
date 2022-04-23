@@ -1,0 +1,25 @@
+.nameComponent{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 20px;
+  padding: 10px;
+  border: 1px solid black;
+  border-top: none; 
+} 
+.nameBtn button{
+  border: none;
+  display: flex;
+  height: auto;
+  align-items: center;
+}
+.nameBtn button:hover{
+  background-color: whitesmoke;
+  border-radius: 5px;
+}
+.nameinput{
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+
