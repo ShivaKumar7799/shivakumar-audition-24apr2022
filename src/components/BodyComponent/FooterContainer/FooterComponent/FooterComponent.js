@@ -8,7 +8,7 @@ export default function FooterComponent() {
      <Button  name = "<" />
      <Button name = "1" />
      <span class= "footerText" > of 28</span>
-     <Button name = "<" />
+     <Button name = ">" />
     </div>
   )
 }

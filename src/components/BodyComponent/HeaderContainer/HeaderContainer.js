@@ -6,7 +6,8 @@ export default function HeaderContainer() {
   return (
     <div class = "header" >
       <div>
-      <input type = "text" placeholder='search contacts' />
+      {/* <FontAwesomeIcon icon="fa-solid fa-magnifying-glass" /> */}
+      <input type = "text" placeholder=' 🔍 search contacts' />
       </div>
       <div class = "headerBtns" >
         <div class = "leftBtns" >
